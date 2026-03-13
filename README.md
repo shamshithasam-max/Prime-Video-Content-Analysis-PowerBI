@@ -23,7 +23,7 @@ The dashboard provides insights into movies and TV shows based on genres, rating
 14. How has content production changed over the years?
 15. Which rating category (13+, 16+, 18+, etc.) has the most content?
 
-##Process
+## Process
 
 1. Collected the Amazon Prime Video dataset.
 2. Cleaned and organized the dataset using Microsoft Excel.
@@ -33,5 +33,21 @@ The dashboard provides insights into movies and TV shows based on genres, rating
 6. Designed an interactive dashboard to analyze genre distribution, ratings, release trends, and country-wise content.
 7. Generated insights to understand content patterns on the platform.
 
-# Dashboard
+## Dashboard
 <a href="https://github.com/shamshithasam-max/Prime-Video-Content-Analysis-PowerBI/blob/main/Power_BI_Dashboard.png">View Dashboard</a>
+
+## Project Insights
+
+1. Drama is the most dominant genre on Amazon Prime Video, followed by Comedy and Drama & Suspense.
+2. Movies make up the majority of the platform's content, while TV shows represent a smaller portion.
+3. Most of the content on the platform falls under the 13+ and 16+ rating categories, indicating that the platform mainly targets teenage and adult audiences.
+4. Content production has increased significantly after 2015, showing rapid growth in streaming content.
+5. The United States and India contribute a large portion of the available titles on the platform.
+6. The platform includes a wide variety of genres and directors, highlighting diverse content offerings.
+
+## Final Conclusion
+
+This project analyzed the Amazon Prime Video dataset using Microsoft Power BI to understand content distribution, genre popularity, ratings, and release trends.  
+The analysis shows that the platform is dominated by movies, with drama and comedy being the most popular genres. Content production has grown rapidly in recent years, and most titles are targeted toward teenage and adult audiences.  
+
+The dashboard helps visualize key insights and demonstrates how data visualization can support better understanding of streaming platform content trends.
