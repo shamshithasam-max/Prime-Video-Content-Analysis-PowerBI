@@ -7,43 +7,45 @@ The dashboard provides insights into movies and TV shows based on genres, rating
 
 ## Analysis Questions
 
-1. What is the total number of titles available on Amazon Prime Video?
-2. How many titles are Movies and how many are TV Shows?
-3. Which genre has the highest number of titles?
-4. What are the top 5 most popular genres on the platform?
-5. How many titles were released each year?
-6. In which year were the most titles released?
-7. Which country produces the highest number of shows?
-8. How is the content distributed across different countries?
-9. Which content rating category has the highest number of titles?
-10. How many unique directors are present in the dataset?
-11. Which director has directed the most titles?
-12. What percentage of the content is Movies vs TV Shows?
-13. How many genres are present in the dataset?
-14. How has content production changed over the years?
-15. Which rating category (13+, 16+, 18+, etc.) has the most content?
+- What is the total number of titles available on Amazon Prime Video?
+- How many titles are Movies and how many are TV Shows?
+- Which genre has the highest number of titles?
+- What are the top 5 most popular genres on the platform?
+- How many titles were released each year?
+- In which year were the most titles released?
+- Which country produces the highest number of shows?
+- How is the content distributed across different countries?
+- Which content rating category has the highest number of titles?
+- How many unique directors are present in the dataset?
+- Which director has directed the most titles?
+- What percentage of the content is Movies vs TV Shows?
+- How many genres are present in the dataset?
+- How has content production changed over the years?
+- Which rating category (13+, 16+, 18+, etc.) has the most content?
+
+<a href="https://github.com/shamshithasam-max/Prime-Video-Content-Analysis-PowerBI/blob/main/Power_BI_Dashboard.png">View Dashboard</a>
 
 ## Process
 
-1. Collected the Amazon Prime Video dataset.
-2. Cleaned and organized the dataset using Microsoft Excel.
-3. Imported the cleaned dataset into Microsoft Power BI.
-4. Performed data modeling and checked relationships between fields.
-5. Created visualizations such as bar charts, maps, donut charts, and line charts.
-6. Designed an interactive dashboard to analyze genre distribution, ratings, release trends, and country-wise content.
-7. Generated insights to understand content patterns on the platform.
+- Collected the Amazon Prime Video dataset.
+- Cleaned and organized the dataset using Microsoft Excel.
+- Imported the cleaned dataset into Microsoft Power BI.
+- Performed data modeling and checked relationships between fields.
+- Created visualizations such as bar charts, maps, donut charts, and line charts.
+- Designed an interactive dashboard to analyze genre distribution,ratings,release   trends, and country-wise content.
+- Generated insights to understand content patterns on the platform.
 
 ## Dashboard
 <a href="https://github.com/shamshithasam-max/Prime-Video-Content-Analysis-PowerBI/blob/main/Power_BI_Dashboard.png">View Dashboard</a>
 
 ## Project Insights
 
-1. Drama is the most dominant genre on Amazon Prime Video, followed by Comedy and Drama & Suspense.
-2. Movies make up the majority of the platform's content, while TV shows represent a smaller portion.
-3. Most of the content on the platform falls under the 13+ and 16+ rating categories, indicating that the platform mainly targets teenage and adult audiences.
-4. Content production has increased significantly after 2015, showing rapid growth in streaming content.
-5. The United States and India contribute a large portion of the available titles on the platform.
-6. The platform includes a wide variety of genres and directors, highlighting diverse content offerings.
+- Drama is the most dominant genre on Amazon Prime Video, followed by Comedy and Drama & Suspense.
+- Movies make up the majority of the platform's content, while TV shows represent a smaller portion.
+- Most of the content on the platform falls under the 13+ and 16+ rating categories, indicating that the platform mainly targets teenage and adult audiences.
+- Content production has increased significantly after 2015, showing rapid growth in streaming content.
+- The United States and India contribute a large portion of the available titles on the platform.
+- The platform includes a wide variety of genres and directors, highlighting diverse content offerings.
 
 ## Final Conclusion
 
